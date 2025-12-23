@@ -28,4 +28,4 @@ This project demonstrates a **Hardware-in-the-Loop (HIL)** control system for an
 ## Results
 Below is the system response showing the controller intervention when switching from Sport to Eco mode while maintaining full throttle input.
 
-![System Response Graph](HIL_DriveByWire_Demo/Docs/screenshot.png)
+![System Response Graph](/Docs/screenshot.png)
